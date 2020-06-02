@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ImplementacionJson</string>
+    <string name="Titulo">Implementacion de Json</string>
+    <string name="tnombre">Ingrese su nombre</string>
+    <string name="tedad">Ingrese su edad</string>
+    <string name="tsexo">Ingrese su sexo</string>
+    <string name="tjson">Json</string>
+    <string name="rjson">Resultado Json</string>
+    <string name="bjson">Convierte a Json</string>
+    <string name="bconvierte">Convierte Clase</string>
+</resources>
